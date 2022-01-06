@@ -1,0 +1,103 @@
+body{
+    margin: 0px;
+}
+section{
+    padding:50px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.flexing{
+    display:flex;
+    
+}
+.half{
+    padding: 50px;
+}
+#first-heading{
+    font-size: 30px;
+    border-left: 10px;
+}
+span{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    background-color: rgba(247, 50, 1, 0.651);
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+.first-heading{
+    border-left: 5px solid red;
+    padding:5px;
+    font-size: 30px;
+}
+
+
+
+.section-two{
+    background-color: url("images/shapes/shape-7.png");
+    background-repeat: no-repeat;
+
+}
+.h1-second{
+    padding:0 350px;
+    font-size:50px;;
+}
+.color-one{
+    background-color: silver;
+    margin:50px;
+    border-radius: 10px;
+}
+.color-two{
+    background-color: rgba(250, 138, 118, 0.952);
+    margin: 50px;
+    border-radius: 10px;
+}
+.color-three{
+    background-color: rgb(247, 212, 149);
+    margin:50px;
+    border-radius: 10px;
+}
+
+
+h2{
+    font-size: 30px;
+}
+
+
+
+
+.fifth-section{
+    padding: 50px 450px;
+    font-size: 50px;
+}
+.travel{
+    background-image: url("Images/shapes/shape-1.png");
+    background-repeat:no-repeat;
+    background-size: 400px;
+    background-position: left;
+}
+
+.fifth-one{
+    background-image:linear-gradient(rgb(11, 1, 19),rgb(115, 30, 252));
+    margin:50px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 10px 10px 5px #807e7e;;
+}
+.fifth-two{
+    background-image:linear-gradient(rgb(0, 0, 0),rgb(0, 25, 253));
+    margin:50px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 10px 10px 5px #807e7e;
+}
+footer{
+    background-color: rgb(5, 5, 34);
+    color:white;
+    padding:20px 500px;
+    align-items: justify;
+    font-family: 'Island Moments', cursive;
+}
